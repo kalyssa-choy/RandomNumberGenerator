@@ -1,0 +1,3 @@
+# RandomNumberGenerator
+
+simple number generator.
